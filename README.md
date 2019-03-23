@@ -16,6 +16,21 @@ The .vox files for these parcels are available to you to download and experiment
 	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-2-proto-gardens.vox)
 - [70 Hook Street](https://www.cryptovoxels.com/parcels/560)
 	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-70-hook-street.vox)
+- [1 Alva Fork](https://www.cryptovoxels.com/parcels/914)
+	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-1-alva-fork)
+- [1 Screw Route](https://www.cryptovoxels.com/parcels/819)
+	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-1-screw-route.vox)
+- [2 Grave Trace](https://www.cryptovoxels.com/parcels/365)
+	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-2-grave-trace.vox)
+- [27 Addy Gardens](https://www.cryptovoxels.com/parcels/909)
+	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-27-addy-gardens.vox)
+- [3 Rand Drive](https://www.cryptovoxels.com/parcels/870)
+	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-3-rand-drive.vox)
+- [6 Alva Fork](https://www.cryptovoxels.com/parcels/921)
+	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-6-alva-fork.vox)
+- [8 Bacon Arcade](https://www.cryptovoxels.com/parcels/270)
+	- [Download](https://github.com/madjin/makers-district/blob/master/parcels/parcel-8-bacon-arcade.vox)
+
 
 ## To-do
 
